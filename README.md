@@ -363,6 +363,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [GreenLever](https://greenlever.co/)
 - [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
 - [NextGen Energy Jobs](https://www.nextgenenergyjobs.com/) - Power-sector jobs in grid, nuclear and fusion, renewables, storage and data centers, with pay where employers list it.
+- [EcoRoles](https://ecoroles.com/) - Climate jobs across various sectors (water, solar, grid, storage, recycling, EVs and more) and every function, sourced from employers' career pages; filter by role, skill, location, remote and salary.
 
 ## Impact
 
